@@ -1,4 +1,4 @@
-FROM morehousej09/ubuntu
+FROM jonmorehouse/ubuntu
 MAINTAINER Jon Morehouse <morehousej09@gmail.com>
 
 # install golang dependencies
